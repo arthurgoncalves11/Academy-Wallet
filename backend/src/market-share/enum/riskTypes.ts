@@ -1,0 +1,7 @@
+export enum RiskTypes {
+  MUITO_BAIXO = 'MUITO_BAIXO',
+  BAIXO = 'BAIXO',
+  MODERADO = 'MODERADO',
+  ALTO = 'ALTO',
+  MUITO_ALTO = 'MUITO_ALTO',
+}
